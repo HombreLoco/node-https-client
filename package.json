@@ -1,0 +1,22 @@
+{
+  "name": "node_https_client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HombreLoco/node-https-client.git"
+  },
+  "author": "jacques",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HombreLoco/node-https-client/issues"
+  },
+  "homepage": "https://github.com/HombreLoco/node-https-client#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
